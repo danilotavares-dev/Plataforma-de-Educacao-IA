@@ -15,6 +15,7 @@ uvicorn = "*"
 pydantic = "*"
 pingouin = "*"
 statsmodels = "*"
+numpy = "*"
 
 [dev-packages]
 
